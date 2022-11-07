@@ -1,0 +1,15 @@
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\bin\Debug\net6.0\Birthday.exe
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\bin\Debug\net6.0\Birthday.deps.json
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\bin\Debug\net6.0\Birthday.runtimeconfig.json
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\bin\Debug\net6.0\Birthday.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\bin\Debug\net6.0\Birthday.pdb
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\Birthday.csproj.AssemblyReference.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\Birthday.AssemblyInfoInputs.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\Birthday.AssemblyInfo.cs
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\Birthday.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\refint\Birthday.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\Birthday.pdb
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\Birthday.genruntimeconfig.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Birthday\Birthday\obj\Debug\net6.0\ref\Birthday.dll
