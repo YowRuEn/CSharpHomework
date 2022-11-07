@@ -1,0 +1,15 @@
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\bin\Debug\net6.0\Calendar.exe
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\bin\Debug\net6.0\Calendar.deps.json
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\bin\Debug\net6.0\Calendar.runtimeconfig.json
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\bin\Debug\net6.0\Calendar.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\bin\Debug\net6.0\Calendar.pdb
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\Calendar.csproj.AssemblyReference.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\Calendar.AssemblyInfo.cs
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\Calendar.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\refint\Calendar.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\Calendar.pdb
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\Calendar.genruntimeconfig.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Calendar\Calendar\obj\Debug\net6.0\ref\Calendar.dll
