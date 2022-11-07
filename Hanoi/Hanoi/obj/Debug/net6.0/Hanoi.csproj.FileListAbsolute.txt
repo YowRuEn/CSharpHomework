@@ -1,0 +1,15 @@
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.csproj.AssemblyReference.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.AssemblyInfoInputs.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.AssemblyInfo.cs
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.exe
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.deps.json
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.runtimeconfig.json
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\bin\Debug\net6.0\Hanoi.pdb
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\refint\Hanoi.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.pdb
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\Hanoi.genruntimeconfig.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\Hanoi\Hanoi\obj\Debug\net6.0\ref\Hanoi.dll
