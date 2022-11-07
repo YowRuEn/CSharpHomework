@@ -1,0 +1,15 @@
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.exe
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.deps.json
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.runtimeconfig.json
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\bin\Debug\net6.0\PrimeNumber.pdb
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\refint\PrimeNumber.dll
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.pdb
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\PrimeNumber.genruntimeconfig.cache
+C:\Users\OrangeEnn\Desktop\Gitee\c-sharp\PrimeNumber\PrimeNumber\obj\Debug\net6.0\ref\PrimeNumber.dll
